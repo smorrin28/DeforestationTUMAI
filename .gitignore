@@ -1,6 +1,9 @@
 archive
 archive.zip
-*.pkl # All model files
+*.pkl
 .ipynb_checkpoints
 .virtual_documents
-.DS_Storet
+.DS_Store
+models
+segmentation_preprocessed
+segmentation_preprocessed.zip
